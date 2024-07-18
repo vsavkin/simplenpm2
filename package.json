@@ -1,0 +1,13 @@
+{
+  "name": "simplenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo building super hard"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
